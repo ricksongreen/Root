@@ -2640,3 +2640,7 @@ section.banner1 {
     z-index: 666;
     max-width: 80%;
 }
+
+.gallery .agileits-img img {
+    height: 256px;
+}
