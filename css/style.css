@@ -2638,4 +2638,5 @@ section.banner1 {
     top:0px;
     left:0px;
     z-index: 666;
+    max-width: 80%;
 }
